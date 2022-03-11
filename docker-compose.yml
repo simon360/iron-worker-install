@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  with-iron-worker:
+    container_name: with-iron-worker
+    build:
+      context: .
+      dockerfile: Dockerfile
+      
+    volumes:
+      - .:/src
