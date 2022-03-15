@@ -48,10 +48,11 @@
         },
         "iron-worker": {
             "hashes": [
-                "sha256:eb5c9a70f4eef28fabc8ef97c713d8559fb358df5220c93e42f5008f5dfdb121"
+                "sha256:361d807ebd2244d66a3e7e5f9bba0f143ff5a84ff8c6035990feaf39d024c4e3",
+                "sha256:619774141a28a1f5f9bfddf96f68143c6319d6a758f540f27f0e290d20496dbe"
             ],
             "index": "pypi",
-            "version": "==1.3.7"
+            "version": "==1.3.8"
         },
         "python-dateutil": {
             "hashes": [
