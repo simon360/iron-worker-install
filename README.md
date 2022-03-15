@@ -1,5 +1,7 @@
 # IronWorker package demo
 
+> This bug has been fixed with the release of `iron-core@1.2.1` and `iron-worker@1.3.8`.
+
 This repo demonstrates an issue with the most recent version of the `iron-worker` package on PyPI.
 
 ## Steps to recreate
